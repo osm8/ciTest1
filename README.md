@@ -1,5 +1,7 @@
 # Citest1
 
+[![Travis badge](https://travis-ci.org/osm8/ciTest1.svg?branch=greenkeeper%2Finitial)](https://travis-ci.org/)
+
 [![Greenkeeper badge](https://badges.greenkeeper.io/osm8/ciTest1.svg)](https://greenkeeper.io/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.1.
